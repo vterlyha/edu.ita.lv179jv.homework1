@@ -34,14 +34,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>edu.ita.Lv179jv</groupId>
-			<artifactId>homeWorkKrokhmalyuk</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/lib/homeWorkKrokhmalyuk-0.0.1-SNAPSHOT.jar</systemPath>
-		</dependency>
-
-		<dependency>
 			<groupId>ua.dorab</groupId>
 			<artifactId>Task323</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
@@ -56,7 +48,7 @@
 			<scope>system</scope>
 			<systemPath>${basedir}/lib/edu.softservinc.Lv179jv.hwpetryk-1.0.jar</systemPath>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
