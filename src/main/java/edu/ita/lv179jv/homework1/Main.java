@@ -135,9 +135,9 @@ public class Main {
         System.out.println("7 for Exrecise No. 178.1"); // Krokhmalyuk
         System.out.println("8 for Exrecise No. 178.2");
         System.out.println("9 for Exrecise No. 555");
-        System.out.println("10 for Exrecise No. XXX"); // Terlyha
-        System.out.println("11 for Exrecise No. XXX");
-        System.out.println("12 for Exrecise No. XXX");
+        System.out.println("10 for Exrecise No. 108"); // Terlyha
+        System.out.println("11 for Exrecise No. 325");
+        System.out.println("12 for Exrecise No. 561");
         System.out.println("13 for Exrecise No. 81a"); // Varvariuk
         System.out.println("14 for Exrecise No. 81b");
         System.out.println("15 for Exrecise No. 330");
