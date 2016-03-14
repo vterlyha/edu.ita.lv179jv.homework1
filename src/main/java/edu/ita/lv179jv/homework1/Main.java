@@ -22,6 +22,7 @@ public class Main {
             String choise = sc.nextLine();
             switch (choise) {
             case "0":
+                System.out.println("Good bye");
                 System.exit(0);
             case "1":
                 System.out.println("In the array of natural numbers, with legth N, please find"
