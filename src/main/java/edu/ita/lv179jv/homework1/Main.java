@@ -93,6 +93,8 @@ public class Main {
 				break;
 
 			case "16":
+				System.out.println("There are natural numbers m and n. Get the sum of n last "
+                        + "numberals of number m");
 				Task87.main(args);
 				System.out.println("----------------------------------------------------------");
 				break;
@@ -105,6 +107,8 @@ public class Main {
 				break;
 
 			case "18":
+                System.out.println("There is a natural number n. Get all Mersenn's numbers less"
+                        +"then n.");
 				Task559.main(args);
 				System.out.println("----------------------------------------------------------");
 				break;
