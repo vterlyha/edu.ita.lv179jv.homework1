@@ -52,12 +52,14 @@ public class Main {
 			case "11":
 			    System.out.println("Find simple dividers of given natural number");
 				HomeworkTerlyha.solveExcercise325();
+				System.out.println();
 				System.out.println("----------------------------------------------------------");
 				break;
 
 			case "12":
 			    System.out.println("Find all natural numbers, that coincide with last numbers of its squares");
 				HomeworkTerlyha.solveExcercise561();
+				System.out.println();
 				System.out.println("----------------------------------------------------------");
 				break;
 
